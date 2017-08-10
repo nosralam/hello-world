@@ -1,3 +1,2 @@
 # hello-world
-playground
-I live in Minnesota.  
+Minnesota is my playground.  
