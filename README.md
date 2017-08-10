@@ -1,2 +1,2 @@
 # hello-world
-I live in Minneapolis.  I miss you.
+I live in Minneapolis, and I miss you.
